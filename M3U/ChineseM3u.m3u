@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR blue][I][B]--- Update 08-01-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]--- Update 08-14-2015 ---[/B][/I][/COLOR]
 
 #EXTINF:0,[COLOR red][I][B]*** TVB Channels ***[/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -12,24 +12,32 @@ http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/tvbent/as/live/tvbent_4.m3u8
 #EXTINF:-1,TVB2
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/tvbj2/as/live/tvbj2_4.m3u8
 
+#EXTINF:-1,高清翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 
-#EXTINF:0,[COLOR red][I][B]*** HK Channels ***[/B][/I][/COLOR]
+
+#EXTINF:0,[COLOR red][I][B]*** 香港 Channels ***[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,CETV"華娛衛視"
+#EXTINF:-1,華娛衛視
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
-#EXTINF:-1,ASIA"亚洲联合卫视"
+#EXTINF:-1,凤凰卫视香港台
+http://live.3gv.ifeng.com/hongkong800k.m3u8
+#EXTINF:-1,亚洲联合卫视
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
-#EXTINF:-1,BSHD"耀才财经台"
+#EXTINF:-1,耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
+#EXTINF:-1,香港卫视
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 
-#EXTINF:0,[COLOR red][I][B]*** MACAU Channels ***[/B][/I][/COLOR]
+
+#EXTINF:0,[COLOR red][I][B]*** 澳門 Channels ***[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,LOTUS TV"蓮花衛視"
+#EXTINF:-1,蓮花衛視
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
-#EXTINF:-1,LOTUS TV2"蓮花衛視"
+#EXTINF:-1,蓮花衛視
 http://122.152.139.15/zerox/LOTUS/0-42.m3u8
 #EXTINF:-1,澳亞衛視
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
@@ -40,7 +48,7 @@ http://122.152.139.15/zerox/LOTUS/0-42.m3u8
 #EXTINF:0,[COLOR red][I][B]*** Ifeng Channels ***[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Ifeng"凤凰中文HD"
+#EXTINF:-1,凤凰中文HD
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
 #EXTINF:-1,凤凰资讯HD
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
@@ -54,33 +62,16 @@ http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
 http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
 #EXTINF:-1,本港台HD
 http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
-#EXTINF:-1,NOW 新闻台
-http://hwebcast.now.com/nnc-av.m3u8
-#EXTINF:-1,NOW 直播台
-http://hwebcast.now.com/webch331_1-av.m3u8
 #EXTINF:-1,香港卫视
 http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 #EXTINF:-1,HKS 香港卫视
 rtmp://live.hkstv.hk.lxdns.com/live/hks
-#EXTINF:-1,凤凰卫视台
-http://live.3gv.ifeng.com/live/hongkong.m3u8
-#EXTINF:-1,凤凰卫视HD
-http://live.3gv.ifeng.com/live/FHZXHD.m3u8
-#EXTINF:-1,凤凰中文
-http://live.3gv.ifeng.com/live/zhongwen.m3u8
-#EXTINF:-1,凤凰中文
-http://live.3gv.ifeng.com/live/zhongwen350k.m3u8
-#EXTINF:-1,凤凰资讯
-http://live.3gv.ifeng.com/zixun800k.m3u8
-#EXTINF:-1,凤凰卫视台
-http://live.3gv.ifeng.com/live/hongkong.m3u8
-#EXTINF:-1,凤凰卫视HD
-http://live.3gv.ifeng.com/live/FHZXHD.m3u8
-#EXTINF:-1,凤凰资讯HD
-http://live.3gv.ifeng.com:80/live/FHZXHD.m3u8
-#EXTINF:-1,凤凰资讯
-http://live.3gv.ifeng.com/live/zixun.m3u8?fmt=x264_0k_mpegts
-
+#EXTINF:-1,美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,直播讯号测试
+http://58.99.33.1:1935/liveedge/live_999.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1,新唐人国际台HD
+http://64.71.145.11/live400/playlist.m3u8
 
 #EXTINF:0,[COLOR red][I][B]*** CCTV Channels ***[/B][/I][/COLOR]
 http://0.0.0.0:1234
