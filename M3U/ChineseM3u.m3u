@@ -6,12 +6,11 @@
 http://0.0.0.0:1234
 
 #EXTINF:-1,TVB1
-http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/tvbj1/as/live/tvbj1_4.m3u8
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
 #EXTINF:-1,TVBE
-http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/tvbent/as/live/tvbent_4.m3u8
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,TVB2
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/tvbj2/as/live/tvbj2_4.m3u8
-
 #EXTINF:-1,高清翡翠台
 http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 
